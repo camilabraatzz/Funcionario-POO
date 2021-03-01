@@ -1,1 +1,1 @@
-# Funcionario-POO
+# Projeto desenvolvido no BootCamp, utilizando programação orientada a objetos
